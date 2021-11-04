@@ -9,11 +9,13 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * [newscollection](http://github.com/diegoam/newscollection)
 * DA_praw_queue
 
-### ML CAPSTONE
+### ML COURSE
 
 * [DA_split_youtube_frames_s3](http://github.com/diegoam/DA_split_youtube_frames_s3)
 * DA_tensorflow_for_letsplay
 * DA_ML_Capstone
+* ML_SageMaker_Studies
+* sagemaker-deployment
 
 
 ### OTHER
@@ -30,15 +32,23 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * [JS_FE_musicblogs]
 * [musicblogs-scripts-PY] 
 
+### CHESSELLA
+
+* manage_chessella-PY
+* DA_chessella_DB
+
 ## APIS
 
 ### GOOGLE
 
 * DA-youtube-scripts
 * youtube3
+* blogspotapi
 
 
 ## GAME & UTILITES
+
+* geomapquiz 
 
 ### PARADOX
 
@@ -47,6 +57,7 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 ### BALLOONS
 
 * DA_redis_nodejs_Scoreboard
+* balloons-JS
 
 ## DEMOS
 
