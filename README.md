@@ -1,15 +1,19 @@
 # Overview of my repositories
-Overview of my repositories
+
+Overview of my (non archived) repositories. List with https://github.com/diegoami?tab=repositories&q=archived%3Afalse&type=&language=&sort=
+
 ## MACHINE LEARNING
 
 ### TECHCONTROVERSY
 
 * [newscollection](http://github.com/diegoam/newscollection)
+* DA_praw_queue
 
 ### ML CAPSTONE
 
 * [DA_split_youtube_frames_s3](http://github.com/diegoam/DA_split_youtube_frames_s3)
 * DA_tensorflow_for_letsplay
+* DA_ML_Capstone
 
 
 ### OTHER
@@ -26,24 +30,31 @@ Overview of my repositories
 * [JS_FE_musicblogs]
 * [musicblogs-scripts-PY] 
 
+## APIS
+
+### GOOGLE
+
+* DA-youtube-scripts
+* youtube3
+
+
 ## GAME & UTILITES
 
+### PARADOX
+
 * [ck3-scripts]
-* 
+
+### BALLOONS
+
+* DA_redis_nodejs_Scoreboard
 
 ## DEMOS
 
 ### ANGULAR
 
-* DA_ang_web_comp_demo
 
 ### KUBERNETES / HELM
 
-* postgrest
-* DA_gbucket_on_gke
-* docker_kub_course 
-* charts
-* bitnami-docker-airflow-scheduler
 
 ## PERSONAL DATA
 
