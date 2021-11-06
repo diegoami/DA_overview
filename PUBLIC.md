@@ -71,8 +71,8 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 ## CHALLENGES
 
-* DA_deds_challenge
-* ga_data_ch-Diego_Amicabile.ipynb 
+* leet_code_solutions
+
  
 ## PYTHON
 
@@ -100,7 +100,9 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * DA_redis_nodejs_Scoreboard
 * balloons-JS
 
-## DEMOS
+## DEMOS / EXERCISES
+
+* DA_learn_latex
 
 ## DOCS
 
