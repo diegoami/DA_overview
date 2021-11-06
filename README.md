@@ -48,6 +48,11 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 ## GAME & UTILITES
 
+### CHESSELLA
+
+* manage_chessella-PY
+* DA_chessella_DB 
+
 * geomapquiz 
 
 ### PARADOX
@@ -65,6 +70,12 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 
 ### KUBERNETES / HELM
+
+* postgrest
+* docker_kub_course
+* charts
+* bitnami-docker-airflow-scheduler
+* airflow-openshift
 
 
 ## PERSONAL DATA
