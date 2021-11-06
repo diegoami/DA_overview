@@ -69,14 +69,6 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 ### ANGULAR
 
 
-### KUBERNETES / HELM
-
-* postgrest
-* docker_kub_course
-* charts
-* bitnami-docker-airflow-scheduler
-* airflow-openshift
-
 
 ## PERSONAL DATA
 
