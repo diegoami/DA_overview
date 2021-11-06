@@ -7,8 +7,9 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 ### SPAMDETECTOR
 
 * DA_spamdetector_scikit
-* 
-* * 
+* DA_spamdetector_javaspark
+* DA_spamdetector_pyspark 
+* DA_spamdetector_scikit_pmml
 
 ### TECHCONTROVERSY
 
@@ -29,9 +30,15 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * DA_nanoeng_degree
 * DA_dataengineer_capstone
 
-### OTHER
+### YELP
 
-* DA_yelp_sentiment_analysis
+* DA_sentiment_analysis
+* DA_yelp_analisis
+
+
+### FAQPORTAL
+
+
 * bankdomain_PY
 
 ## WEBSITES
@@ -62,6 +69,14 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * blogspotapi
 * amaraapi
 
+## CHALLENGES
+
+* DA_deds_challenge
+* ga_data_ch-Diego_Amicabile.ipynb 
+ 
+## PYTHON
+
+* example-code
 
 ## GAME & UTILITES
 
