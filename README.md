@@ -4,6 +4,12 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 ## MACHINE LEARNING
 
+### SPAMDETECTOR
+
+* DA_spamdetector_scikit
+* 
+* * 
+
 ### TECHCONTROVERSY
 
 * [newscollection](http://github.com/diegoam/newscollection)
@@ -18,9 +24,13 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * sagemaker-deployment
 
 
+### DATA ENGINEERING
+
+* DA_nanoeng_degree
+* DA_dataengineer_capstone
+
 ### OTHER
 
-* DA_dataengineer_capstone
 * DA_yelp_sentiment_analysis
 * bankdomain_PY
 
@@ -36,6 +46,12 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 * manage_chessella-PY
 * DA_chessella_DB
+* DA_gapi_chessella
+
+### GEOCLICK 
+
+* geoclick-JS 
+* geoclick-delphi
 
 ## APIS
 
@@ -44,6 +60,7 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * DA-youtube-scripts
 * youtube3
 * blogspotapi
+* amaraapi
 
 
 ## GAME & UTILITES
@@ -52,12 +69,16 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 * manage_chessella-PY
 * DA_chessella_DB 
-
 * geomapquiz 
 
 ### PARADOX
 
 * [ck3-scripts]
+
+### MOUNT & BLADE
+
+* Diplado 
+* diplomacy-plus-for-warband
 
 ### BALLOONS
 
@@ -66,7 +87,9 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 ## DEMOS
 
-### ANGULAR
+## DOCS
+
+* DA_api_dataset
 
 
 
