@@ -1,6 +1,16 @@
 ## MACHINE_LEARNING
 
+### PROJECTS
+
 * faqdomain_py.
+* insuracne_domain
+
+### LEARNING
+
+*  DA_Machine_Learning_Book
+*  DA_Google_Machine_Learning
+*  datacamp-courses-PY/
+
 
 ## DEMOS
 
@@ -17,9 +27,15 @@
 * DA_learn_angular_ui_material
 * DA_angular7_tutorial
 
-### SCAL
+### SCALA
 
 
-DA_scala_idea_projects*
+* DA_scala_idea_projects
+* DA_scala_projects
 
 ## GAMES
+
+* DA_gedovinello
+
+## PYTHON
+
