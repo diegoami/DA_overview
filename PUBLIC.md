@@ -35,6 +35,10 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 * DA_sentiment_analysis
 * DA_yelp_analisis
 
+### ANALYSIS
+
+* DA_kaggle
+
 
 ### FAQPORTAL
 
@@ -59,6 +63,7 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 * geoclick-JS 
 * geoclick-delphi
+* geomapquiz
 
 ## APIS
 
@@ -84,7 +89,12 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 
 * manage_chessella-PY
 * DA_chessella_DB 
-* geomapquiz 
+ 
+* DA_FAQS
+
+### GEOCLIKC
+
+
 
 ### PARADOX
 
@@ -103,6 +113,7 @@ Overview of my (non archived) repositories. List with https://github.com/diegoam
 ## DEMOS / EXERCISES
 
 * DA_learn_latex
+* leet_code_solutions 
 
 ## DOCS
 
